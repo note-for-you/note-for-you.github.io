@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
+baseurl: "/note-for-you"
 url: "https:/note-for-you.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
